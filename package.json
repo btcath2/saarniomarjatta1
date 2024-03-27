@@ -1,0 +1,23 @@
+{
+  "name": "saarniomarjatta1",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btcath2/saarniomarjatta1.git"
+  },
+  "dependencies": {
+    "saarniomarjatta1": "1.0.0",
+    "saarniomarjatta": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btcath2/saarniomarjatta1/issues"
+  },
+  "homepage": "https://github.com/btcath2/saarniomarjatta1#readme"
+}
